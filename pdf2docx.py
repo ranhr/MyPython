@@ -1,3 +1,5 @@
+#This is a tool depends on pdf2docx pdf to docx 
+#Install the pdf2docx; pip install pdf2docx
 #引入Conver类
 import os
 from pdf2docx import Converter
